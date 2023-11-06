@@ -1,0 +1,35 @@
+#boxRed{
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height:104px;
+    width: 120px;
+  }
+  
+  #boxYellow{
+    background-color: yellow;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height:104px;
+    width: 120px;
+  }
+  
+  #boxGreen{
+    background-color: green;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    height:104px;
+    width: 120px;
+  }
+  
+  #boxBlue{
+    background-color: blue;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    height:104px;
+    width: 120px;
+  }

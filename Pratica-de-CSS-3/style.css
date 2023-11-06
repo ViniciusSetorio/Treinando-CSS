@@ -1,0 +1,39 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+
+.tamanhoc{
+    position: absolute;
+    margin: 0;
+}
+
+.catchup{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+.tamanhop{
+    position: absolute;
+    margin: 0;
+}
+
+.pudim{
+    position: absolute;
+    top: 100px;
+    left: 460px;
+
+}
+
+.tamanhol{
+    position: absolute;
+    margin: 0;
+}
+
+.lasanha{
+    position: absolute;
+    top: 100px;
+    left: 820px;
+
+}
